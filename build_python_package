@@ -1,0 +1,5 @@
+https://www.pythonpool.com/importerror-attempted-relative-import-with-no-known-parent-package/
+
+trong multi_robot folder
+->>python setup.py develop
+de khong can build lai package khi code thay doi
